@@ -8,7 +8,7 @@
   <a href="https://medium.com/@abacus" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Writeups-black?style=flat-square&logo=medium" />
   </a>
-  <a href="https://linkedin.com/in/abacus" target="_blank">
+  <a href="www.linkedin.com/in/basil-zamanp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-UAE%20%2F%20GCC-green?style=flat-square" />
@@ -110,7 +110,7 @@ Writeups published on [Medium →](https://medium.com/@abacu5)
 
 I'm actively looking for cybersecurity opportunities in **UAE / GCC** across SOC, VAPT, vulnerability management, and application security roles.
 
-📧 Reach me via [LinkedIn](https://linkedin.com/in/abacus) or [Medium](https://medium.com/@abacus)
+📧 Reach me via [LinkedIn](www.linkedin.com/in/basil-zamanp) or [Medium](https://medium.com/@abacus)
 
 ---
 
