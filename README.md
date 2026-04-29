@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a cybersecurity professional with **3+ years of experience** across SOC operations, vulnerability management, and web application penetration testing. 
+I'm a cybersecurity professional with **4+ years of experience** across SOC operations, vulnerability management, and web application penetration testing. 
 
 I'm passionate about both the defensive and offensive sides of security - from tuning SIEM alerts to exploiting race conditions in CTF labs. I document everything I learn.
 
@@ -41,7 +41,7 @@ I'm passionate about both the defensive and offensive sides of security - from t
 ## Technical Skills
 
 **Vulnerability Management**
-`Qualys VMDR` `Rapid7 InsightVM` `Nessus` `CVE Triage` `CVSS Scoring` `Patch Management`
+`Qualys VMDR` `Rapid7 InsightVM` `InsightAppSec` `CVE Triage` `CVSS Scoring` `Patch Management`
 
 **SOC & Monitoring**
 `SIEM Operations` `Log Analysis` `Incident Response` `Threat Intelligence` `Alert Triage`
