@@ -106,7 +106,7 @@ Writeups published on [Medium →](https://medium.com/@abacu5)
 
 ## Let's Connect
 
-📧 Reach me via [LinkedIn](www.linkedin.com/in/basil-zamanp) or [Medium](https://medium.com/@abacus)
+📧 Reach me via [LinkedIn](https://www.linkedin.com/in/basil-zamanp) or [Medium](https://medium.com/@abacus)
 
 ---
 
