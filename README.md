@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://medium.com/@abacus" target="_blank">
+  <a href="https://medium.com/@abacu5" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Writeups-black?style=flat-square&logo=medium" />
   </a>
   <a href="www.linkedin.com/in/basil-zamanp" target="_blank">
