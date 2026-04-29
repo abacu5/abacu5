@@ -102,12 +102,9 @@ Writeups published on [Medium →](https://medium.com/@abacu5)
   <img src="https://github-readme-stats.vercel.app/api?username=abacu5&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abacu5&layout=compact&theme=default&hide_border=true" height="150" />
 </p>
-
 ---
 
 ## Let's Connect
-
-I'm actively looking for cybersecurity opportunities in **UAE / GCC** across SOC, VAPT, vulnerability management, and application security roles.
 
 📧 Reach me via [LinkedIn](www.linkedin.com/in/basil-zamanp) or [Medium](https://medium.com/@abacus)
 
